@@ -14,6 +14,20 @@ This project is a basic calculator that performs the most common arithmetic oper
 - Responsive layout for desktop and mobile screens
 - Simple and clean user interface
 
+## Screenshots
+
+### Desktop view
+
+![Calculator desktop preview](screenshots/calculator-desktop.svg)
+
+### Main interface
+
+![Calculator main interface](screenshots/captura-2.png)
+
+### Mobile view
+
+![Calculator mobile preview](screenshots/captura-3.png)
+
 ## Technologies Used
 
 - HTML
